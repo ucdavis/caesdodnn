@@ -16,7 +16,7 @@
 	        </tr>
 	        <tr style="height:100%;">
 		        <td valign="top" style="width:650px;">
-                    <h2>DotNetNuke Error</h2>
+                    <h2>Hello DotNetNuke Error</h2>
                     <hr />
                     <p><asp:PlaceHolder ID="ErrorPlaceHolder" runat="server" /></p>
                 </td>
